@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uac35
-- 👀 I’m interested in fluid mechanics, turbulence modelling and plasma physics
-- 🌱 I’m currently learning machine learning and its turbulence modelling applications
+- 👀 I’m interested in android development.
+- 🌱 I’m currently learning machine learning and android software development.
 - 📫 How to reach me uygarts9@gmail.com
 
 <!---

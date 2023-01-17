@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uac35
-- 👀 I’m interested in android development.
+- 👀 I’m interested in android development and CFD solver development.
 - 🌱 I’m currently learning machine learning and android software development.
 - 📫 How to reach me uygarts9@gmail.com
 

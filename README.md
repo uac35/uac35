@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uac35
 - 👀 I’m interested in android development and CFD solver development.
-- 🌱 I’m currently learning machine learning and android software development.
+- 🌱 I’m currently learning machine learning for turbulence modelling and android software development.
 - 📫 How to reach me uygarts9@gmail.com
 
 <!---
